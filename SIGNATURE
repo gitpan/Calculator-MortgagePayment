@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,13 +15,13 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 da334c34779abd168c8afac9167a03248f984873 Build.PL
-SHA1 2d07473dcaa964d88975d15d49e6fa1a69a97654 Changes
+SHA1 9ae0dfd623d576981c066ed6b275f8fed5234b58 Changes
 SHA1 20e8e814c3a6e41859b9a3f4e34a01035ade2618 MANIFEST
 SHA1 7d20e4e840781030202bb045d5ab81b3fd1b68b0 MANIFEST.SKIP
-SHA1 eaa4436b3cd2a98b4698fe1970ae97e827d3e2b8 META.yml
+SHA1 841241183e4bd88d33d4dd65f8cecb662c6a9403 META.yml
 SHA1 04324a9e600ead5a9e63917ed42c55e6dab2908c Makefile.PL
 SHA1 bd28691ea14440baec69babf10093619f0eb4bc9 README
-SHA1 4dc13e518b681c063f177df7c1281839d9e1efdd lib/Calculator/MortgagePayment.pm
+SHA1 abae3310cddae7f1c97c2275780f1d8b1fd51a41 lib/Calculator/MortgagePayment.pm
 SHA1 60c92228ec56251dd852347443a3037ea42b4cfd t/00-load.t
 SHA1 307e76dab92d83ccd43a102d12802434c064e516 t/01-new.t
 SHA1 1311ab86a33d50b01adfa922718bea0a58692021 t/02-repayment.t
@@ -31,11 +31,11 @@ SHA1 1133681a856347e9c7bb7536b6471acac1aaa354 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.14 (MingW32)
 
-iQEcBAEBAgAGBQJOHtHSAAoJEPYcXBXhRYOhoq8H/jq2HTO8mH41g6NF9HiIEOVW
-KrXs8R/pky44S8XtCBVE6xO9Oa1puUGwQfZ/rxcWUsxiyYaOFn5PyYReASs8qNHs
-hsuuyGFTp9ANf7R9KLXNXcX4TUyWww8PrJJtLP4TG6vNOt9MIy8c0UFIRBv2HmRl
-x3QnwMwCS7DrwqwpVMQAqhgm2gfppR1JJ4d1+le1aPpfXomuXzZDJz5KB4V5nxtu
-cjZl6cCTgpRZs8IYDw3tAHg54PNXzf6lJn77fkL5V8fiY0yOz+sXOYt+wfxfUJDv
-Y8Hoe+skgO8K830OT56eZY23SrAOVEu5KhN3HBIxfQdHttxTw6Z5Ri+S9pr4LYQ=
-=yPeL
+iQEcBAEBAgAGBQJOQUttAAoJEPYcXBXhRYOhtBoH/1YL/fssbV+R4l2/nVX14ZEw
+bB6xn7PnuGtuywR8IcNc3eiRhWlzH/vBvj2XyQqmqdBeqKhlDKh1uEHO42jdW/s/
+ZOmdOe6+6H8U3rHiiqXgi2bLS/1bjqNvBZM9ZEU/NlQUt/N6ywMwbaXcEFakiLqY
+uhbJUmEwqe4vqh/7kb66TAP6JQLkxbZn8xF5rUeJLS4ww89tQhtqK113No4JXrs6
+3acBvPpEw8kB/HGn1DUg1XY/jwOOEwwASmE1M51wmpMvxGSO7MPqEjsXZ0bmyOvA
+r8GNiB6mN7jX+hhaAkgAxgqCXtnn1NkTI4Y15/2b2T9QaMX6ICPQWSNsRxrEJ5o=
+=SgHd
 -----END PGP SIGNATURE-----
